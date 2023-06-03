@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyCalculator</string>
+    <string name="ac">AC</string>
+    <string name="x">x²</string>
+    <string name="v">√</string>
+</resources>
